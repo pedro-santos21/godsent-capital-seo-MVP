@@ -19,9 +19,9 @@ export default function Home() {
 
         <Image
           src="https://raw.githubusercontent.com/pedro-santos21/godsent-capital-seo-MVP/main/pages/dog-flower.jpg"
-          alt="My Image"
-          width={500}
-          height={500}
+          alt="dog flower"
+          width={150}
+          height={200}
         />
       </main>
 
