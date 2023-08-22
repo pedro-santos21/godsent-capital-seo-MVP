@@ -14,6 +14,9 @@ export default function Home() {
           {' '}
           DESIGN FILE LINK
         </a>
+
+        <img src="pic_trulli.jpg" alt="Italian Trulli">
+
       </main>
 
       <footer className={styles.footer}>
