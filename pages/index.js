@@ -18,7 +18,7 @@ export default function Home() {
         <br />
 
         <Image
-          src="https://raw.githubusercontent.com/pedro-santos21/godsent-capital-seo-MVP/main/pages/dog%20flower.jpg"
+          src="https://raw.githubusercontent.com/pedro-santos21/godsent-capital-seo-MVP/main/pages/dog-flower.jpg"
           alt="My Image"
           width={500}
           height={500}
