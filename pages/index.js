@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -15,8 +16,12 @@ export default function Home() {
           DESIGN FILE LINK
         </a>
 
-        <img src="pic_trulli.jpg" alt="Italian Trulli">
-
+        <Image
+          src="https://raw.githubusercontent.com/pedro-santos21/godsent-capital-seo-MVP/main/pages/dog%20flower.jpg"
+          alt="My Image"
+          width={500}
+          height={500}
+        />
       </main>
 
       <footer className={styles.footer}>
