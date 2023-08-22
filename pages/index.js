@@ -15,6 +15,7 @@ export default function Home() {
           {' '}
           DESIGN FILE LINK
         </a>
+        <br />
 
         <Image
           src="https://raw.githubusercontent.com/pedro-santos21/godsent-capital-seo-MVP/main/pages/dog%20flower.jpg"
